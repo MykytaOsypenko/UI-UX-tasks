@@ -65,6 +65,19 @@
 | ------  | ------ | -------  | 
 | 87.2kb  | 42.8kb | 173kb    | 
 ## 5. Візуальний аналіз та висновки
+Фото  
+Оригінал  
+![photo](images/photo.jpg)  
+WebP 75%  
+![photowebp](images/photo_webp75.webp)  
+Скріншот  
+![screenshot](images/screenshot.jpg)  
+WebP 75%  
+![screenshotwebp](images/screenshot_webp75.webp)  
+Графіка з текстом  
+![text](images/text.png)  
+WebP 75%  
+![textwebp](images/text_webp75.webp)
 ## Висновок
 Ознайомився із методами стиснення зображень та їхнім впливом на якість.Навчився визначати оптимальний баланс між якістю та розміром файлу.Дослідив вплив зміни розміру на якість зображення та вагу файлу.
 
